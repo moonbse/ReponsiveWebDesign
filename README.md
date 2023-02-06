@@ -1,3 +1,3 @@
 # ReponsiveWebDesign
 
-> Follow along of freeCodeCamp course:: response web design Certification
+> Follow along of freeCodeCamp course:: responsive web design Certification
